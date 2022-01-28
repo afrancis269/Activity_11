@@ -1,0 +1,11 @@
+F:\Coding\web_19.08.2021\CST150\Activity_11\Activity_11\Activity_11\bin\Debug\Activity_11.exe.config
+F:\Coding\web_19.08.2021\CST150\Activity_11\Activity_11\Activity_11\bin\Debug\Activity_11.exe
+F:\Coding\web_19.08.2021\CST150\Activity_11\Activity_11\Activity_11\bin\Debug\Activity_11.pdb
+F:\Coding\web_19.08.2021\CST150\Activity_11\Activity_11\Activity_11\obj\Debug\Activity_11.csproj.AssemblyReference.cache
+F:\Coding\web_19.08.2021\CST150\Activity_11\Activity_11\Activity_11\obj\Debug\Activity_11.csproj.SuggestedBindingRedirects.cache
+F:\Coding\web_19.08.2021\CST150\Activity_11\Activity_11\Activity_11\obj\Debug\Activity_11.Dice.resources
+F:\Coding\web_19.08.2021\CST150\Activity_11\Activity_11\Activity_11\obj\Debug\Activity_11.Properties.Resources.resources
+F:\Coding\web_19.08.2021\CST150\Activity_11\Activity_11\Activity_11\obj\Debug\Activity_11.csproj.GenerateResource.cache
+F:\Coding\web_19.08.2021\CST150\Activity_11\Activity_11\Activity_11\obj\Debug\Activity_11.csproj.CoreCompileInputs.cache
+F:\Coding\web_19.08.2021\CST150\Activity_11\Activity_11\Activity_11\obj\Debug\Activity_11.exe
+F:\Coding\web_19.08.2021\CST150\Activity_11\Activity_11\Activity_11\obj\Debug\Activity_11.pdb
